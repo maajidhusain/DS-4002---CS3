@@ -42,3 +42,5 @@ In the data folder inside of the Materials direcotry, there is a starter script 
 - [Two sample proportion test](https://online.stat.psu.edu/stat800/lesson/5/5.5) -- Accessed May 08, 2024
 - [About IMDb Reviews](https://help.imdb.com/article/contribution/contribution-information/how-are-user-reviews-displayed-on-imdb/G3AZQK7NTWFASP7A#) -- Accessed May 08, 2024
 - [Using Selenium to Web Scrape](https://scrapfly.io/blog/web-scraping-with-selenium-and-python/) -- Accessed May 08, 2024
+- [About Barbie v Oppenheimer](https://www.nytimes.com/2023/08/02/movies/barbenheimer-barbie-vs-oppenheimer.html) -- Accessed May 08, 2024
+
