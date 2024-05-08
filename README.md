@@ -8,6 +8,18 @@ In the "Materials" folder you will find useful resources that will guide you tow
 In the `Materials` directory, you will find useful resources that will help you complete this case study including infomration on libraries that will help you with data cleaning, data extraction, and context to the topic of the case study. These resources will be helpful in determining if there exists a difference in sentiment between the two chosen movies (Barbie and Oppenheimer).
 
 ```
+.
+├── Materials
+│   ├── Context
+│   │   └── CS3 - IMDb.pdf
+│   └── Technical
+│       ├── CS3 - Hypothesis.pdf
+│       ├── CS3 - Pandas.pdf
+│       ├── CS3 - Selenium Tutorial.pdf
+│       └── CS3 - Transformers.pdf
+├── README.md
+├── case_study_deliverable.pdf
+└── case_study_rubric.pdf
 ```
 
 ## References
