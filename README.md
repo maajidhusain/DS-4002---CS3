@@ -25,11 +25,12 @@ In the data folder inside of the Materials direcotry, there is a starter script 
 │   │   └── scraping_script.ipynb
 │   └── References
 │       ├── Context
+│       │   ├── Barbenheimer.pdf
 │       │   └── CS3 - IMDb.pdf
 │       └── Technical
-│           ├── CS3 - Hypothesis.pdf 
-│           ├── CS3 - Pandas.pdf 
-│           ├── CS3 - Selenium Tutorial.pdf 
+│           ├── CS3 - Hypothesis.pdf
+│           ├── CS3 - Pandas.pdf
+│           ├── CS3 - Selenium Tutorial.pdf
 │           └── CS3 - Transformers.pdf
 ├── README.md
 ├── case_study_deliverable.pdf
