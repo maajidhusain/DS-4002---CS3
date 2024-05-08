@@ -19,10 +19,10 @@ In the data folder inside of the Materials direcotry, there is a starter script 
 │       ├── Context
 │       │   └── CS3 - IMDb.pdf
 │       └── Technical
-│           ├── CS3 - Hypothesis.pdf
-│           ├── CS3 - Pandas.pdf
-│           ├── CS3 - Selenium Tutorial.pdf
-│           └── CS3 - Transformers.pdf
+│           ├── CS3 - Hypothesis.pdf ** How to run a two sample proportion test **
+│           ├── CS3 - Pandas.pdf ** How to use pandas **
+│           ├── CS3 - Selenium Tutorial.pdf ** How to use selenium to scrape the web **
+│           └── CS3 - Transformers.pdf ** How to use the transformers package for sentiment analysis **
 ├── README.md
 ├── case_study_deliverable.pdf
 └── case_study_rubric.pdf
