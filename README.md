@@ -1,6 +1,6 @@
 # DS-4002--CS3
 
-This respository contains `case_study_deliverable`, `case_study_rubric`, and `materials` required to complete this case study
+This respository contains [`case_study_deliverable`](case_study_deliverable.pdf), [`case_study_rubric`](case_study_rubric.pdf), and [`materials`](Materials) required to complete this case study
 
 ## Materials
 In the "Materials" folder you will find useful resources that will guide you towards completing this case study including information on libraries, access to datasets, and context to the topic of the case study. These resources will come in handy in determing whether there is a relationship between recipe length and it's ratings.
